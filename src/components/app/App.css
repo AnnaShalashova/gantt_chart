@@ -1,0 +1,124 @@
+.App {
+  height: 100vh;
+  font-family: 'Roboto', sans-serif !important;
+  padding: 16px 25px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn_save {
+  padding-left: 30px;
+  width: 100px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid #2628421F;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.btn_container {
+  position: relative;
+}
+
+.arrow_save {
+  position: absolute;
+  top: 11px;
+  left: 20px
+}
+
+.project_name {
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 18px;
+  color: #262842
+}
+
+.Body-module_table__O3j9l {
+  font-family: 'Roboto', sans-serif !important;
+  color: #262842 ;
+}
+
+.Header-module_table__3u_KP {
+  background-color: #F7F8FC;
+}
+
+.TimeScale-module_scale__3dlEg {
+  box-shadow: none;
+  box-shadow: inset -7px 0 5px -5px #0c0c0c6b !important;
+  background-color: #F7F8FC;
+}
+
+.TimeScale-module_cell__2VPIM {
+  border: 0.3px solid #ededed;
+}
+
+.timeline_cell_class {
+  width: 20px !important;
+}
+
+.Chart-module_area__3FglT {
+  height: 100% !important
+}
+
+.Body-module_selected__QOSKf {
+  background: none !important;
+}
+
+.Chart-module_selection__3_-9N {
+  background: none !important;
+}
+
+.Body-module_row__2eOgf {
+  border: 0.5px solid #e6e6e6;
+}
+
+.TimeScale-module_cell__2VPIM {
+  color: #262842de !important;
+}
+
+.Header-module_cell__1Jwvz {
+  font-family: 'Roboto', sans-serif !important;
+  text-transform: none;
+  color: #6D6E85 ;
+  margin-left: 20px;
+}
+
+.Bars-module_bar__1_228 {
+  background-color: #E2EBFF !important;
+  border-radius: 5px !important;
+  margin-top: 4px;
+  height: 25px !important;
+}
+
+.Bars-module_text__1dOoV {
+  color: #262842;
+  position: absolute;
+  left: 100%;
+  margin-left: 10px;
+  margin-top: -4px;
+}
+
+.Header-module_table__3u_KP {
+  box-shadow: none;
+}
+
+.wx-material {
+  box-shadow: none;
+}
+
+.Gantt-module_content__36naa {
+  box-shadow: inset -7px 0 5px -5px #0c0c0c6b !important;
+}
+
+.Grid-module_grid__2VUMH {
+  border: 0.5px solid #e6e6e6
+}
+
+
+

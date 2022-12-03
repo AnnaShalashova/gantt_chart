@@ -722,7 +722,7 @@ module.exports = function (webpackEnv) {
             infrastructure: 'silent',
           },
         }),
-      !disableESLintPlugin &&
+      false &&
         new ESLintPlugin({
           // Plugin options
           extensions: ['js', 'mjs', 'jsx', 'ts', 'tsx'],
